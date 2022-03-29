@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">exe_1</string>
+    <string name="iRegistrasi">Registrasi</string>
+    <string name="ihasiltask">Hasil Task</string>
+    <string name="iwelcome">Welcome in Todo App</string>
+    <string name="inama">Nama</string>
+    <string name="Rnama">Masukkan Nama</string>
+    <string name="ipassword">Password</string>
+    <string name="RPassword">Masukkan Password</string>
+    <string name="isignin">Sign-In</string>
+    <string name="newto">New to Todo App ?</string>
+    <string name="iregister">Register</string>
+    <string name="Fgister">Register</string>
+    <string name="Fnama">Nama</string>
+    <string name="Enama">Masukkan Nama</string>
+    <string name="Femail">Email</string>
+    <string name="Eemail">Masukkan Email</string>
+    <string name="Fpassword">password</string>
+    <string name="Epassword">Masukkan Password</string>
+    <string name="irepass">Re-Password</string>
+    <string name="irerepass">Masukkan Password</string>
+    <string name="isignup">Sign-Up</string>
+    <string name="selamatdatang">Selamat Datang</string>
+    <string name="namalogin">Pascal</string>
+    <string name="judultask">Task</string>
+    <string name="task">Task</string>
+    <string name="irdnatask">Masukkan Task</string>
+    <string name="irjenistask">Jenis Task</string>
+    <string name="rfjenistask">Masukkan Jenis Task</string>
+    <string name="irtimetask">Time Task</string>
+    <string name="rftimetask">Masukkan Lama Task</string>
+    <string name="FAB">FAB</string>
+    <string name="inamatask">Hasil Nama Task</string>
+    <string name="ijenistask">Hasil Jenis Task</string>
+    <string name="itimetask">Hasil Time Task</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+
+</resources>
